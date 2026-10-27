@@ -12,9 +12,9 @@ Rationale: a definition only wins if it can be cited freely.
 
 ## Reference implementation (Mirror-Origin, separate repository)
 
-**PolyForm Noncommercial 1.0.0** — source-open, free for personal use;
-commercial use prohibited.
-Full text: https://polyformproject.org/licenses/noncommercial/1.0.0/
+**AGPL-3.0** (GNU Affero General Public License v3.0), with a separate
+commercial license available.
+Full text: https://www.gnu.org/licenses/agpl-3.0.html
 
 ## Trademarks
 

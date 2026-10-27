@@ -51,8 +51,8 @@ fills the platforms. Open an issue to comment on any section.
 
 ## Mirror-Origin (codename *Kawagebo*)
 
-A reference implementation — **Mirror-Origin / 镜-初** — ships
-September 2026: a runnable, source-open teaching PCE for Android.
+A reference implementation — **Mirror-Origin / 镜-始** — a runnable,
+open-source teaching PCE for Android.
 *Kawagebo* is the sacred peak of the Meili range that no one may summit;
 we borrow the name in tribute — a guardian that exists
 **only to carry you across into the AI era**（只为渡你入AI新时代）.
@@ -60,8 +60,8 @@ we borrow the name in tribute — a guardian that exists
 ## License
 
 Specification text: see [LICENSE.md](LICENSE.md).
-Reference implementation (when released): PolyForm Noncommercial —
-*source-open, free for personal use.*
+Reference implementation: AGPL-3.0, with a separate commercial license
+available.
 
 ---
 *JadeAurum · Mirror Project · 2026*

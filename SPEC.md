@@ -71,7 +71,7 @@ made concrete.
 
 | Platform | Form | Status |
 |---|---|---|
-| Android | Unified | ✅ Mirror-Origin reference implementation (Sep 2026) |
+| Android | Unified | ✅ Mirror-Origin reference implementation |
 | iOS | Window (existing clients → PCE server mode) | ✅ Path proven by community clients; first adapter = bounty issue |
 | HarmonyOS | Pending third-party access to the intent framework | ⏳ Watchpost — we adapt the day it opens |
 | Linux desktop / old PCs | Unified, or as the brain in window form | 🤝 Reserved chapter — community implementation invited |
