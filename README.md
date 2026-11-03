@@ -42,7 +42,7 @@ It is published as an open RFC. Open an issue to comment on any section.
 
 ## Mirror-Origin (codename *Kawagebo*)
 
-A reference implementation — **Mirror-Origin / 镜-始** — an open-source
+A reference implementation — **Mirror-Origin / 镜-始** — a source-available
 Android app, in development.
 *Kawagebo* is the sacred peak of the Meili range that no one may summit;
 we borrow the name in tribute — a guardian that exists
@@ -51,8 +51,8 @@ we borrow the name in tribute — a guardian that exists
 ## License
 
 Specification text: see [LICENSE.md](LICENSE.md).
-Reference implementation: AGPL-3.0, with a separate commercial license
-available.
+Reference implementation: source available, free for personal use.
+Commercial use requires our permission.
 
 ---
 *Mirror Project · mirrorpce.com · 2026*

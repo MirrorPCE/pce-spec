@@ -9,7 +9,7 @@ arguments are welcome — this spec is meant to be readable by anyone.
 ## How to contribute text (CLA required)
 Pull requests that change spec text require signing our Contributor
 License Agreement (CLA) so contributions can be distributed under the
-project's licenses. The CLA bot will prompt you on your first PR.
+project's current and any later terms, including separate commercial licenses. The CLA bot will prompt you on your first PR.
 
 ## Merge authority
 Merge authority: Mirror Project.
