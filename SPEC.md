@@ -8,12 +8,9 @@
 ## 1. Purpose and Audience
 
 This document specifies what a Personal Cognitive Exoskeleton (PCE)
-requires from an operating system, so that:
-- **OS vendors** know which four interface classes unlock user-owned AI;
-- **Agent developers** can target one interface surface across platforms;
-- **Community porters** can bring PCE to platforms we don't build for.
+requires from an operating system.
 
-We define the interfaces. The community fills the platforms.
+This document describes what a personal AI needs from the phone, so that anyone can comment on it.
 
 ## 2. The Four Interface Classes
 

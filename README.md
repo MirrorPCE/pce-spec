@@ -23,9 +23,9 @@ A system qualifies as a PCE only if it meets all six:
 | # | Criterion | Meaning |
 |---|-----------|---------|
 | 1 | User-owned | The agent is yours; it exists without any vendor account |
-| 2 | Thinks locally | Can run a small model on your own phone; a cloud model only if you add your own key |
-| 3 | Long-term memory | It remembers what you told it, in your own words |
-| 4 | Architecture-level privacy | Privacy you can check: nothing leaves until you open the door; each door can be closed |
+| 2 | Can run on your phone | Can run a small model on your own phone; a cloud model only if you add your own key |
+| 3 | Remembers what you told it | It remembers what you told it, in your own words |
+| 4 | Privacy you can check | Privacy you can check: nothing leaves until you open the door; each door can be closed |
 | 5 | Cross-ecosystem neutral | Not locked to any vendor's ecosystem |
 | 6 | Runs on hardware you already own | Android 12 or newer, a phone you already own |
 
@@ -38,8 +38,7 @@ Android phone.
 This spec defines **what a personal AI needs from the phone**.
 See [SPEC.md](SPEC.md).
 
-It is published as an open RFC: we define the interfaces, the community
-fills the platforms. Open an issue to comment on any section.
+It is published as an open RFC. Open an issue to comment on any section.
 
 ## Mirror-Origin (codename *Kawagebo*)
 
