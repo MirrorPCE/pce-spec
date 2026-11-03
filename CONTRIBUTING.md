@@ -8,12 +8,11 @@ arguments are welcome — this spec is meant to be readable by anyone.
 
 ## How to contribute text (CLA required)
 Pull requests that change spec text require signing our Contributor
-License Agreement (CLA) so contributions can be relicensed alongside
-future project releases. The CLA bot will prompt you on your first PR.
+License Agreement (CLA) so contributions can be distributed under the
+project's licenses. The CLA bot will prompt you on your first PR.
 
-## Response cadence
-Daily replies for the first two weeks after each release; weekly
-batches thereafter. Merge authority: JadeAurum.
+## Merge authority
+Merge authority: Mirror Project.
 
 ## Ground rules
 - Be specific: reference section numbers.

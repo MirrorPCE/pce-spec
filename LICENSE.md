@@ -4,8 +4,8 @@
 
 **CC BY 4.0** (Creative Commons Attribution 4.0 International).
 You may share, quote, translate and build upon this specification,
-including commercially, **as long as you credit "JadeAurum · Mirror
-Project" and link back to this repository.**
+including commercially, **as long as you credit "Mirror Project
+(mirrorpce.com)" and link back to this repository.**
 Full text: https://creativecommons.org/licenses/by/4.0/
 
 Rationale: a definition only wins if it can be cited freely.
@@ -19,5 +19,5 @@ Full text: https://www.gnu.org/licenses/agpl-3.0.html
 ## Trademarks
 
 "Mirror", "PCE" (as used for Personal Cognitive Exoskeleton),
-"MirrorMem" and "Mirror-Origin" are marks of the Mirror Project
-(JadeAurum). This license does not grant trademark rights.
+and "Mirror-Origin" are marks of the Mirror Project. This license does not
+grant trademark rights.
